@@ -6,3 +6,10 @@ html,body{height: 100%;margin:0;}
 .dec{color:#eaeaea;
 	font-size: 30px;
 }
+.coin img{
+	height:50px;
+	width:50px;
+	position:absolute;
+	top:110px;
+	right:32%;
+}
